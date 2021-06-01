@@ -6,7 +6,7 @@ import time
 #Enter your message.
 message = ""
 
-#Enter your numbers with country code without + sign.
+#Enter numbers with country code without + sign.
 numbers = []
 
 browser = webdriver.Chrome()
