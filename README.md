@@ -1,6 +1,6 @@
 # Whatsapp Automation
 
-Send messages over Whatsapp to unlimited people without saving their number by automating WhatsApp with 26 lines of Python Code
+Send messages over Whatsapp to unlimited people without saving their number by automating WhatsApp with 26 lines of Python Code.
 
 ## Installation
 
